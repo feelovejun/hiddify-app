@@ -69,6 +69,7 @@ dependencies:
   percent_indicator: ^4.2.3
   sliver_tools: ^0.2.12
   flutter_adaptive_scaffold: ^0.1.8
+  google_fonts: ^6.1.0
 
   upgrader: ^9.0.0
   toastification: ^1.2.1
